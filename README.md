@@ -3,13 +3,18 @@
 ## Welcome to my profile!👋
 Sou um desenvolvedor Back-end JavaScript. <br/>
 Meus projetos tem um foque em desenvolvimento 
-<img loading="lazy" src="https://icons8.com.br/icon/106036/logotipo-javascript" width="15" height="15"/>
+
+
+
 ##
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAlenkart&theme=synthwave)](https://github.com/VitorAlenkart/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlenkart&layout=compact&theme=synthwave)
 ##
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img loading="lazy" src="https://github.com/VitorAlenkart/VitorAlenkart/assets/87671038/9f9284b7-0a07-472c-8e27-d43a55c5915c" width="40" height="40"/> 
+ 
+
+##
 
 ## Contatos:
 
