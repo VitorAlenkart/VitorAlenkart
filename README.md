@@ -2,7 +2,6 @@
 # Hey guys! My name is Vitor! 
 ## Welcome to my profile!👋
 Sou um desenvolvedor Back-end JavaScript. <br/>
-Meus projetos tem um foque em desenvolvimento 
 
 
 
