@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">I'm specializing in Back-End</h3>
+<h1 align="center">Hi 👋, I'm Vitor Alencar</h1>
 
-- 💬 Ask me about **Javascript and Node.js**
-
-- 📫 How to reach me **alencarsoares2004@gmail.com**
-
-#
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAlenkart&theme=synthwave)](https://github.com/VitorAlenkart/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlenkart&layout=compact&theme=synthwave)
-#
+<h2 align="center"> 📋 About Me </h2>
+<p align="left">🔶 I'm a studant of Computer Science in the Federal University of Campina Grande.</p>
+<p align="left">🔶 I'm a person who fights for public policies so that Brazilian youth can live with dignity.</p>
+<p align="left">🔶 Ever since I was little, I've wanted to be a programmer, but it was four years ago that I started studying.</p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vitoralenkart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitoralenkart" height="30" width="40" /></a>
-<a href="https://discord.gg/vitoralenkart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vitoralenkart" height="30" width="40" /></a>
-</p>
+<h2 align="center"> 🔌Connect with me </h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alencar-barros-soares-02b516244/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/VitorAlenkart)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:alencarsoares2004@gmail.com)
+
+</div>
+
+<h2 align="center"> ⬆️ Hardskills</h2>
+
+<h3 align="center"> Language </h3>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+</div>
+
+
+<h3 align="center">Libraries and Frameworks</h3>
+
+<div align="center">
+
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+
+</div>
+
+<h3 align="center">Tools</h3>
+
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+</div>
+
+
+<h2 align="center"> 👀 My Github Stats </h2>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorAlenkart&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorAlenkart&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+
+</div>
+
+
+<h2 align="center"> 📱 Redes sociais / Social media </h2>
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@vitoralenkart/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoralenkart/)
+</div>
